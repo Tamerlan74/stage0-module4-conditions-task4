@@ -10,6 +10,6 @@ public class MaxNumberPrinter {
         if (third > max){
             max = third;
         }
-        System.out.println(max==first?"first":max==second?"second":"third");
+        System.out.println(max);
     }
 }
